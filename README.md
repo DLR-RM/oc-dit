@@ -3,5 +3,6 @@
 
 ## Checklist
 - [ ] Release demo code
-- [ ] Release training code
-- [ ] Release testing code
+- [ ] Release model weights
+- [ ] Release training data and code
+
