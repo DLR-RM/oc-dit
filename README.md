@@ -2,7 +2,7 @@
 🛠️ This repository is under constructions 🛠️
 
 ## Checklist
-- [ ] Release demo code
-- [ ] Release model weights
-- [ ] Release training data and code
+- [x] Model code
+- [ ] Demo code & model weights
+- [ ] Training Code and data
 
